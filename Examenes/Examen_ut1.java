@@ -53,5 +53,7 @@ public class Examen_ut1 {
                 System.out.println("\nNo quedan intentos. Fin del juego.");
             }
         }
+
+        scan.close();
     }
 }

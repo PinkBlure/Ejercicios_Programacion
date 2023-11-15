@@ -13,6 +13,7 @@ public class Actividad_3 {
                                  "Victoria"};
         double[] arrayNotas = new double[5];
 
+        
         for (int i=0; i<5; i++) {
             System.out.print("Dame la nota: ");
             arrayNotas[i] = scan.nextDouble();

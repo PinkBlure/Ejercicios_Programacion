@@ -1,6 +1,5 @@
 package Actividades_Clase;
 
-import java.io.Console;
 import java.util.Scanner;
 
 public class Actividad_2 {
